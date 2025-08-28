@@ -34,6 +34,6 @@ This project builds a machine learning model to predict customer churn in a reta
 - Reinforced passion for bridging computer science and business
 
 ## 📬 Author
-👩‍💻 Ameni [Your Last Name]  
+👩‍💻 Ameni
 Computer Science Student, Engineering School of Carthage  
 Passionate about AI, Business, and Innovation
